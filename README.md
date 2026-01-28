@@ -34,16 +34,16 @@ Flask, ML, Tailwind CSS
 ---
 
 ## 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sk698&show_icons=true)
 
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=sk698)
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sachin-sharma-288792348
+- Email: sk9006038@gmail.com
 
